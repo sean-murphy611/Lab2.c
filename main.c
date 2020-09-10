@@ -45,7 +45,7 @@ char *grade;
     grade = "F";
   }
 
-  printf("Your letter grade for CMPSC 131 is %s.\n " , grade); 
+  printf("Your letter grade for CMPSC 131 is %s.\n " , grade);
 
   return 0;
 }
