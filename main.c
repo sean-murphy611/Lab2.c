@@ -41,7 +41,7 @@ char *grade;
   else if (name >= 60.0){
     grade = "D";
   }
-  else if (name < 60.0){
+  else  {
     grade = "F";
   }
 
